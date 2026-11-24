@@ -1,0 +1,10 @@
+Package: com.example.hellolegacy
+Name: Hello Legacy
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Example package. Adds a "hello-legacy" command for MobileTerminal / SSH.
+Maintainer: Your Name
+Author: Your Name
+Section: Utilities
+Depends: firmware (>= 3.0)
+Depiction: @REPO_URL@/depictions/com.example.hellolegacy/

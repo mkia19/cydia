@@ -1,0 +1,5 @@
+# Keep Unix line endings so control files and scripts work on iOS / Linux.
+* text=auto eol=lf
+*.deb binary
+*.png binary
+*.jpg binary
